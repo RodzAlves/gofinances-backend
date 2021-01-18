@@ -1,6 +1,8 @@
-# <b> 💸 GoFinances API </b>
+<h1 align="center">
+  <img src="./.github/logo.svg" />
+</h1>
 
-<h4 align = "start">
+<h4 align = "center">
 <img src = "https://img.shields.io/static/v1?label=&message=NODEJS&color=fff&style=for-the-badge&logo=node.js" />
 <img src = "https://img.shields.io/static/v1?label=&message=API&color=339933&style=for-the-badge&logo=json" />
 
